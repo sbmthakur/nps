@@ -1,0 +1,9 @@
+{
+  "sendgridAuth": {
+    "api_user": "xx",
+    "api_key": "xx"
+  },
+  "from": "xx",
+  "to": "xx",
+  "executablePath": "xx"
+}
